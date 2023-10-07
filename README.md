@@ -12,3 +12,8 @@ WORKFLOW -
 -> Data Visualization.
 -> Creating Dashboard.
 -> Generating Insights.
+
+
+DASHBOARD OVERVIEW
+
+![Dashboard](https://github.com/Sandeep1203tech/POWER-BI-IPL-ANALYSIS/assets/78650502/b7f94272-60f0-48d6-a327-10a47ee8c206)
